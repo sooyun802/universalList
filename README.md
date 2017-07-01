@@ -22,7 +22,7 @@
 	* returns the element of index *n*
 	* any other elements should not be modified
 	```
-	Objet obj = list.get ();
+	Object obj = list.get ();
 	```
 * `value_type insert (int n, const value_type& T);`
 	* inserts value *T* in the list at index *n*
